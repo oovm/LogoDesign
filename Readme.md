@@ -24,7 +24,7 @@
 
 ### Weki
 
-
+<p align="center"><img src="./logos/weki_v1/1x/title.png"/></p>
 
 ## License
 
