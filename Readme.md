@@ -18,6 +18,14 @@
 
 <p align="center"><img src="./logos/sm/1x/title.png"/></p>
 
+### Doki
+
+<p align="center"><img src="./logos/doki_v1/1x/title.png"/></p>
+
+### Weki
+
+
+
 ## License
 
 License to CC0 Universal
