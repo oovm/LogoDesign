@@ -2,14 +2,17 @@
 
 ## Logos
 
-### JSS
+### JSS (Json Scheme Simplify)
 
 <p align="center"><img src="./logos/jss/1x/title.png"/></p>
 
-### Awsl
+### Awsl (Awesome web, simple language)
 
 <p align="center"><img src="./logos/awsl/1x/title.png"/></p>
 
+### Hive
+
+<p align="center"><img src="./logos/hive/1x/title.png"/></p>
 
 ## License
 
