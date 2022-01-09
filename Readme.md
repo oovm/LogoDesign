@@ -18,9 +18,11 @@ JSS 这个项目原来叫 PSV(Polyglot Schema Validator), 要做一个牛逼的 
 
 ### Awsl (Awesome Web, Simple Language)
 
-<p align="center"><img src="./logos/awsl/1x/title.png"/></p>
+<p align="center"><img src="./logos/awsl/1x/title.png" height = 400/></p>
 
 意象很明显是个 W, 而且是 WWW, 这很万维网.
+
+**啊我死了**
 
 ### YGG
 
@@ -28,6 +30,7 @@ JSS 这个项目原来叫 PSV(Polyglot Schema Validator), 要做一个牛逼的 
 
 YGG 是一种语法生成器, 从抽象语法树联想到树叶
 
+<p align="center"><img src="./logos/ygg_v2/1x/title.png" height = 400/></p>
 
 ### Hive
 
@@ -67,12 +70,14 @@ Weki 是一个类 Wiki 框架
 
 ### Panduck
 
-Panduck 是一个标记文本转换器
-
 <p align="center"><img src="./logos/panduck/1x/title.png"/></p>
 
-扭角, 有一种转变的感觉
+Panduck 是一个标记文本转换器
+
+棱角加对称的设计, 可以给人一种转变的感觉
+
+中间是纯色, 本来想做渐变, 做了半天发现太蠢了, 看了
 
 ## License
 
-License to CC0 Universal
+License to [CC0 Universal]()
