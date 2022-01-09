@@ -37,7 +37,9 @@ HIVE 是一种数据交换格式, 密集, 给人以高效的感觉
 
 ### SM
 
-<p align="center"><img src="./logos/sm/1x/title.png"/></p>
+<p align="center"><img src="./logos/sm_v1/1x/title.png"/></p>
+
+<p align="center"><img src="./logos/sm_v2/1x/title.png"/></p>
 
 很像双曲空间
 
